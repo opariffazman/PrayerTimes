@@ -1,5 +1,5 @@
 # PrayerTimes
-Simple Rainmeter Skin showing Muslim 5 prayer times based on location and school using (free prayer times api)[https://prayertimes.date/api]
+Simple Rainmeter Skin showing Muslim 5 prayer times based on location and school using [free prayer times api](https://prayertimes.date/api)
 
 # Variables
 These are the variables to change according to your specific location and school of choice
