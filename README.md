@@ -1,3 +1,6 @@
+# Pre-requisites
+Install rainmeter [here](https://www.rainmeter.net/) either beta or final release, I'm using beta version 4.4.
+
 # PrayerTimes
 Simple Rainmeter Skin showing Muslim 5 prayer times based on location and school using [free prayer times api](https://prayertimes.date/api)
 
