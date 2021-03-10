@@ -17,3 +17,6 @@ School=9
 You can get list of city ID [here](https://prayertimes.date/api/docs/cities)
 
 And list of school IDs [here](https://prayertimes.date/api/docs/school)
+
+# Preview
+![Skin preview](https://media.discordapp.net/attachments/279412797882761216/819126606962229248/unknown.png)
